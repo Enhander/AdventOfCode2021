@@ -1,0 +1,13 @@
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\bin\Debug\netcoreapp3.1\AdventOfCode2021Day6.exe
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\bin\Debug\netcoreapp3.1\AdventOfCode2021Day6.deps.json
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\bin\Debug\netcoreapp3.1\AdventOfCode2021Day6.runtimeconfig.json
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\bin\Debug\netcoreapp3.1\AdventOfCode2021Day6.runtimeconfig.dev.json
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\bin\Debug\netcoreapp3.1\AdventOfCode2021Day6.dll
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\bin\Debug\netcoreapp3.1\AdventOfCode2021Day6.pdb
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\obj\Debug\netcoreapp3.1\AdventOfCode2021Day6.csprojAssemblyReference.cache
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\obj\Debug\netcoreapp3.1\AdventOfCode2021Day6.AssemblyInfoInputs.cache
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\obj\Debug\netcoreapp3.1\AdventOfCode2021Day6.AssemblyInfo.cs
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\obj\Debug\netcoreapp3.1\AdventOfCode2021Day6.csproj.CoreCompileInputs.cache
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\obj\Debug\netcoreapp3.1\AdventOfCode2021Day6.dll
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\obj\Debug\netcoreapp3.1\AdventOfCode2021Day6.pdb
+C:\Users\Enhander\source\repos\AdventOfCode2021Day6\AdventOfCode2021Day6\obj\Debug\netcoreapp3.1\AdventOfCode2021Day6.genruntimeconfig.cache
