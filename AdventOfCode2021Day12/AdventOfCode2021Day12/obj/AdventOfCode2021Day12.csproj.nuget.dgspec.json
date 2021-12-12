@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day11\\AdventOfCode2021Day11\\AdventOfCode2021Day11.csproj": {}
+    "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day12\\AdventOfCode2021Day12\\AdventOfCode2021Day12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day11\\AdventOfCode2021Day11\\AdventOfCode2021Day11.csproj": {
+    "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day12\\AdventOfCode2021Day12\\AdventOfCode2021Day12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day11\\AdventOfCode2021Day11\\AdventOfCode2021Day11.csproj",
-        "projectName": "AdventOfCode2021Day11",
-        "projectPath": "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day11\\AdventOfCode2021Day11\\AdventOfCode2021Day11.csproj",
+        "projectUniqueName": "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day12\\AdventOfCode2021Day12\\AdventOfCode2021Day12.csproj",
+        "projectName": "AdventOfCode2021Day12",
+        "projectPath": "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day12\\AdventOfCode2021Day12\\AdventOfCode2021Day12.csproj",
         "packagesPath": "C:\\Users\\Enhander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day11\\AdventOfCode2021Day11\\obj\\",
+        "outputPath": "C:\\Users\\Enhander\\Documents\\Programming\\Advent of Code\\2021\\AdventOfCode2021Day12\\AdventOfCode2021Day12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Enhander\\AppData\\Roaming\\NuGet\\NuGet.Config",
