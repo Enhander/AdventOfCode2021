@@ -1,0 +1,13 @@
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\bin\Debug\netcoreapp3.1\AdventOfCode2021Day15.exe
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\bin\Debug\netcoreapp3.1\AdventOfCode2021Day15.deps.json
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\bin\Debug\netcoreapp3.1\AdventOfCode2021Day15.runtimeconfig.json
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\bin\Debug\netcoreapp3.1\AdventOfCode2021Day15.runtimeconfig.dev.json
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\bin\Debug\netcoreapp3.1\AdventOfCode2021Day15.dll
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\bin\Debug\netcoreapp3.1\AdventOfCode2021Day15.pdb
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\obj\Debug\netcoreapp3.1\AdventOfCode2021Day15.csprojAssemblyReference.cache
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\obj\Debug\netcoreapp3.1\AdventOfCode2021Day15.AssemblyInfoInputs.cache
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\obj\Debug\netcoreapp3.1\AdventOfCode2021Day15.AssemblyInfo.cs
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\obj\Debug\netcoreapp3.1\AdventOfCode2021Day15.csproj.CoreCompileInputs.cache
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\obj\Debug\netcoreapp3.1\AdventOfCode2021Day15.dll
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\obj\Debug\netcoreapp3.1\AdventOfCode2021Day15.pdb
+C:\Users\Enhander\Documents\Programming\Advent of Code\2021\AdventOfCode2021Day15\AdventOfCode2021Day15\obj\Debug\netcoreapp3.1\AdventOfCode2021Day15.genruntimeconfig.cache
